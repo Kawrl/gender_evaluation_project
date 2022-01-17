@@ -4,6 +4,8 @@ This is the GitHub repository for the project *Gender Bias In Course Evaluations
 
 As of 2022-01-17, the only code available is the one for setting up the data frames used for the models and the analyses, and also some preprocessing.
 
+To run the script, simply run the `make_dataset.py` and it should eventually save the processed data as a .csv-file named `full_set.csv`. (This assumes you have the required data stored as adviced below.)
+
 The actual .csv files are not uploaded, since they are not meant to be public. The necessary files for running the scripts are:
 
 - 'genusuppdelad-kursstatistik.csv', 
